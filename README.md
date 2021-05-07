@@ -25,9 +25,9 @@ ___
 
 <!-- Links -->
 
-[Rock-Paper-Scissors](game.ayazalam.me)
+[Rock-Paper-Scissors](http://game.ayazalam.me)
 
-[Rock-Paper-Scissors](ayazalam.me "Developed By Ayaz Alam")
+[Rock-Paper-Scissors](https://ayazalam.me "Developed By Ayaz Alam")
 
 <!-- UL Unordered List -->
 * Item 1
